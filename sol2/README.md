@@ -1,6 +1,6 @@
 # Sol2.
 ## Description
- - Nginx image build terraform - 3 instances
+ - Nginx image build terraform - 4 instances
 
 ## Build
 ```
