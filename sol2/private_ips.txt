@@ -1,0 +1,4 @@
+private ip 172.31.13.137 i-0216d0ced7d2ce75d
+private ip 172.31.2.184 i-0cb879474582af72b
+private ip 172.31.1.101 i-014c3a9ef9e40679c
+private ip 172.31.8.244 i-01bdd9905ca4d34c0
